@@ -1,7 +1,7 @@
 # Lemonade: Industry Disruptor?
 ![Lemonade Insurance](https://www.lemonade.com/blog/wp-content/uploads/2017/10/illustration.png)
 
-### Rawlric Sumner
+#### Rawlric Sumner
 
 ## Overview and Origin
 
@@ -14,29 +14,13 @@ Lemonade has had a total of seven funding rounds that have raised a total of $48
 
 Lemonade seeks to change the perception of the insurance industry while turning it from what many may see as a necessary evil and turning it into a social good. By using their incredible quantities of data inputs, Lemonade seeks to offer customer tailored policies meet the specific needs of each individual client for the lowest cost. In doing so, Lemonade not only provides a service but leaves customers with the feeling of satisfaction wrought from finding one of the best deals available. On top of this, Lemonade takes only 25% of the insurance premium revenue for administrative costs and profits while leaving the remaining 75% to fund customer claims, buy reinsurance, and pay various taxes and fees. Anything that is left over is then given to charities that customers are allowed to choose.[^4](https://www.forbes.com/sites/jeffkauflin/2019/05/02/lemonade-fintech-insurance-unicorn/#2206b6606cde) While the law of large numbers states that with an increase in clients, there will naturally be naturally be more claims that will require Lemonade to pay out, having customers come face to face with the possibility of stealing from charities they chose themselves, Lemonade leaves the onus choosing to falsify claims up to the individiduals. Using pre-existing social strucutes as a way of causing others to police themselves gives the new insurance company a leg up on competitors. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-
-## Landscape:
-
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
-
+## Landscape
+The global InsurTech landscape 
 
 ## Results
+![Underwater](https://static.seekingalpha.com/uploads/2020/9/23/saupload_0_3.jpeg)
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+This company operates squarely in the InsurTech industry. By utilizing their advances in algorithmic learning to meet the needs of individual customers, Lemonade has created a unique space in which customers feel comfortable paying what they perceive to be the best price for only policies that best fit their exact needs. That being said, Lemonade has yet to prove that it has the potential for longterm sustainability in an industry that has seen its biggest players withstand the test of time. With all the bells and whistles that Lemonade brings to the table, it still operates as a standard insurance company, except they offer a fancy promise of charitable donations to customers and show balance sheets indicated net losses to shareholders.[^5](https://insnerds.com/lemonade-hype/) While revolutionary in its proprietary use of advancements in technology, when it comes to insurance, it can still be seen as an "old man's game". The inability to speak to a human being, whether on the phone or in person, that will empathize with your plight may be a larger detriment than boon in the long run that prevents them from ever truly taking significant portions of market share. 
 
 ## Recommendations
 
